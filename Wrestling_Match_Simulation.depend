@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1670099510 source:c:\users\lewis\desktop\resume\wrestling_match_simulation\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"wrestler.h"
+	"team.h"
+	"match.h"
+
+1667603894 c:\users\lewis\desktop\resume\wrestling_match_simulation\include\wrestler.h
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+
+1667608135 c:\users\lewis\desktop\resume\wrestling_match_simulation\include\team.h
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"wrestler.h"
+
+1667604095 c:\users\lewis\desktop\resume\wrestling_match_simulation\match.h
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"wrestler.h"
+	"match.h"
+	"team.h"
+
+1669683064 source:c:\users\lewis\desktop\resume\wrestling_match_simulation\match.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"match.h"
+	"wrestler.h"
+	"team.h"
+
+1670099428 source:c:\users\lewis\desktop\resume\wrestling_match_simulation\src\team.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"team.h"
+
+1667658261 source:c:\users\lewis\desktop\resume\wrestling_match_simulation\src\wrestler.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+	"wrestler.h"
+
